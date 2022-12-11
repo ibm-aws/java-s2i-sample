@@ -1,10 +1,10 @@
-package com.ibm.partner.sample;
+package com.ibm.swaggerui;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SampleApplicationTests {
+class SampleWebApplicationTests {
 
 	@Test
 	void contextLoads() {
